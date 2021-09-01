@@ -1,0 +1,5 @@
+- 👋 Hey there! I'm Trevor Peck, Junior Software Engineer, graduated 2021 from Southern New Hampshire Uni. with a BS in CS with a specialization in Software Eng.
+- I'm interested in full-time job and internship oppurtunities that will fuel my personal growth in the software engineering field.
+- I'm currently learning about speech recognition, computer vision, and embedded systems which control animatronics / GPIO, which are the cornerstones of my next personal project.
+- I'm looking to collaborate on exciting and innovative portfolio pieces / projects, not just for career-matching oppurtunities, but also to learn new technologies and stay cutting-edge.
+- You can reach me on LinkedIn [here](https://www.linkedin.com/in/trevor-peck-885700125/), by email at trevor.peck@snhu.edu, and by text at +1(843)-694-2802.
