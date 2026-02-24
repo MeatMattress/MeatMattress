@@ -1,5 +1,28 @@
-- 👋 Hey there! I'm Trevor Peck, Junior Software Engineer, graduated Magna cum Laude from Southern New Hampshire Uni. in 2021 with a BS in CS with a specialization in Software Eng.
-- I'm interested in full-time job and internship oppurtunities that will fuel my personal growth in the software engineering field.
-- I'm currently learning about speech recognition, computer vision, and embedded systems which control animatronics / GPIO, which are the cornerstones of my next personal project.
-- I'm looking to collaborate on exciting and innovative portfolio pieces / projects, not just for career-matching oppurtunities, but also to learn new technologies and stay cutting-edge.
-- You can reach me on LinkedIn [here](https://www.linkedin.com/in/trevor-peck-885700125/), by email at trevor.peck@snhu.edu, and by text at +1(843)-694-2802.
+# Hey there! I'm Trevor Peck 👋
+
+## About Me
+
+Software Engineer II based in Nashville, TN with 3 years of experience building enterprise-level applications. I graduated Magna Cum Laude from Southern New Hampshire University with a BS in Computer Science (Software Engineering).
+
+Currently at **Voya Financial**, where I work on backend systems for benefits enrollment, eligibility processing, and payroll integration using Java, Spring, and Spring Batch.
+
+## Tech Stack
+
+- **Languages:** Java, SQL, JavaScript, TypeScript, Python, C/C++
+- **Backend:** Spring Framework, Spring MVC, Spring Batch, Hibernate, REST APIs, Express.js
+- **Frontend:** React, JSP, HTML, CSS
+- **Databases:** Oracle, MySQL, MongoDB
+- **Tools:** Git, Maven, Linux CLI, JUnit, JIRA, Agile/Scrum
+
+## Interests
+
+- Robotics Design & 3D Printing
+- Electronics & Circuit Development
+- Drone Design & Racing
+- Augmented Reality App Development
+
+## Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/trevor-peck)
+- 📧 pecktd96@gmail.com
+- 📱 (843) 694-2802
